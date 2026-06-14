@@ -1,3 +1,6 @@
+## amnezia.org
+amnezia.org
+
 Meta (Instagram, Facebook)
 // Узлы
 157.240.253.174
@@ -244,9 +247,6 @@ cloudfront.net
 52.44.227.212
 54.156.140.159
 44.221.37.199
-
-## amnezia.org
-amnezia.org
 
 ## medium.com
 162.159.152.4
