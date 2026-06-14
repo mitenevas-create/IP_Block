@@ -1,6 +1,7 @@
 ## amnezia.org
 amnezia.org
 cloudflare.com
+dell.com
 
 Meta (Instagram, Facebook)
 // Узлы
