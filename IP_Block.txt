@@ -2,7 +2,6 @@
 amnezia.org
 cloudflare.com
 104.16.124.96
-1.1.1.1
 dell.com
 
 Meta (Instagram, Facebook)
